@@ -2,6 +2,15 @@
 
 Consumer Complaint Text Classification
 
+## Table of Contents
+
+- [Explanatory Data Analysis and Feature Engineering](#1-explanatory-data-analysis-and-feature-engineering)
+- [Text Pre-Processing](#2-text-pre-processing)
+- [Selection of Multi-Classification Model](#3-selection-of-multi-classification-model)
+- [Comparison of Model Performance](#4-comparison-of-model-performance)
+- [Model Evaluation](#5-model-evaluation)
+- [Prediction](#6-prediction)
+
 
 ## 1. Explanatory Data Analysis and Feature Engineering
 
